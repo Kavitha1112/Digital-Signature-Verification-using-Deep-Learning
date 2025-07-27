@@ -1,0 +1,11 @@
+# Environment variables
+.env
+demo.py
+Dataset
+# Virtual environments
+env/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
